@@ -1,0 +1,32 @@
+.feedResults-container {
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.feedResults-title {
+  text-align: center;
+  padding: 0 5px 10px 5px;
+}
+
+.feedResults-image {
+  width: 500px;
+}
+
+.input-container {
+  width: 520px;
+}
+
+.inputFieldFullWidth {
+  width: 514px;
+  padding: 5px 0px;
+}
+
+.inputFieldTitle {
+  width: 441px;
+  padding: 5px 0px;
+}
+
+.resultPostButton {
+  padding: 5px 6px;
+}
